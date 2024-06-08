@@ -2,7 +2,7 @@
 include_once('header.php');
 
 ?>
-This is login
+This is home
 <?php
 include_once('footer.php');
 
